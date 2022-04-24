@@ -76,31 +76,24 @@ just ordinary civilians who love programming and algorithms sometimes also like 
     <a href="https://www.behance.com/nicsprojects" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" />
     </a>
-
     <a href="https://www.dribbble.com/nicsprojects" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" />
     </a>
-
     <a href="https://www.github.com/Nicklahara252729" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
     </a>
-
     <a href="http://www.instagram.com/nicsprojects" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </a>
-
     <a href="https://www.linkedin.com/in/nico-lahara-86507a13a" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
-
     <a href="https://www.stackoverflow.com/users/17523812/nics-projects" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
     </a>
-
     <a href="https://www.twitter.com/NicsProjects" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </a>
-
     <a href="https://www.youtube.com/c/UCexz87Hgqa1mL1sh4SsceyQ" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
     </a>
