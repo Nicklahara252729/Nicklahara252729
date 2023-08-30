@@ -14,3 +14,4 @@ just ordinary civilians who love programming and algorithms sometimes also like 
 <b>What i learned</b><br>
 you can find out my learning history in any of my personal organizations<br><br>
 [![php collection learning](https://img.shields.io/badge/php_collection_learning-00565b?style=for-the-badge&logo=php&logoColor=ffff00)](https://github.com/PHP-Collection-Learning)
+[![php collection learning](https://img.shields.io/badge/python_collection_learning-00565b?style=for-the-badge&logo=php&logoColor=ffff00)](https://github.com/Python-Collection-Learning)
