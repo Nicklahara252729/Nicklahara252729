@@ -12,5 +12,6 @@ just ordinary civilians who love programming and algorithms sometimes also like 
 
 <b>What i learned</b><br>
 you can find out my learning history in any of my personal organizations<br><br>
-[![php collection learning](https://img.shields.io/badge/php_collection_learning-00565b?style=for-the-badge&logo=php&logoColor=ffff00)](https://github.com/PHP-Collection-Learning)
-[![php collection learning](https://img.shields.io/badge/python_collection_learning-00565b?style=for-the-badge&logo=python&logoColor=ffff00)](https://github.com/Python-Collection-Learning)
+[![backend](https://img.shields.io/badge/backend-00565b?style=for-the-badge&logo=go&logoColor=ffff00)](https://github.com/backend-learning-history)
+[![machine_learning](https://img.shields.io/badge/machine_learning-00565b?style=for-the-badge&logo=python&logoColor=ffff00)](https://github.com/machine-learning-history)
+[![mobile](https://img.shields.io/badge/mobile-00565b?style=for-the-badge&ios=python&logoColor=ffff00)](https://github.com/mobile-learning-history)
